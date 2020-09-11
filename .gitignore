@@ -1,0 +1,7 @@
+*.zip
+*.tar.xz
+*.dep
+*.C~
+*.o
+
+/linux64GccDPInt64Opt
