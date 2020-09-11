@@ -3,5 +3,4 @@
 *.dep
 *.C~
 *.o
-
-/linux64GccDPInt64Opt
+linux64GccDPInt64Opt/
